@@ -40,7 +40,7 @@ Pergamo is built upon the excellent foundation provided by the [enem-api](https:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/pergamo.git
+   git clone https://github.com/9cs/pergamo..git
    cd pergamo
    ```
 
