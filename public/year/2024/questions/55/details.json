@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2024",
+    "index": 55,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "filosofia",
+    "context": "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão.",
+    "credits": "FOUCAULT, M. O corpo utópico, as heterotopias.\nSão Paulo: Edições N-1, 2013.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse texto reforça uma concepção metafísica clássica que remete a um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pressuposto lógico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pensamento dicotômico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Contemplação da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Raciocínio argumentativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Crítica à individualidade",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

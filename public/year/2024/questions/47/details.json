@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2024",
+    "index": 47,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "Tal qual num exército, não se compreende um efetivo composto apenas de oficiais. Também na saúde pública, os funcionários técnicos graduados necessitam ser assistidos por auxiliares em número suficiente e com preparo adequado, constituído pelas enfermeiras de saúde pública, educadoras ou visitadoras sanitárias, técnicos de laboratório, inspetores ou guardas etc., para não falarmos no pessoal burocrático, não especializado.",
+    "credits": "PAULA SOUZA, G. H.; VIEIRA, F. B. Centro de saúde “eixo” de\norganização sanitária. Boletim do Instituto de Higiene\nde São Paulo, n. 59 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto dos sanitaristas atuantes nas décadas de 1920 e 1930 veicula uma mensagem caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Higienização moral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imposição eugênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Assimilação cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hegemonização identitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hierarquização profissional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

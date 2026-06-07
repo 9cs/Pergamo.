@@ -1,0 +1,51 @@
+{
+    "title": "Questão 175 - ENEM 2024",
+    "index": 175,
+    "year": 2024,
+    "language": null,
+    "area": "matematica",
+    "discipline": "matematica",
+    "context": "Uma indústria faz uma parceria com uma distribuidora de sucos para lançar no mercado dois tipos de embalagens. Para a fabricação dessas embalagens, a indústria dispõe de folhas de alumínio retangulares, de dimensões 10 cm por 20 cm. Cada uma dessas folhas é utilizada para formar a superfície lateral da embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. A figura ilustra, dependendo de qual das duas extensões será utilizada como altura, as duas opções para formar a possível embalagem.",
+    "credits": "",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        }
+    ]
+}

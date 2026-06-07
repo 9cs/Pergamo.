@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2024",
+    "index": 57,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os problemas aparecem e se transformam em debates, em diálogo e em possibilidade de ajuste e compromissos. Por isso, não anulam os conflitos, ao contrário, são canais de comunicação e de visibilidade de oposições.",
+    "credits": "GOMES, P. C. C. Espaço público, espaços públicos.\nGeographia, n. 44, set.-dez. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As características descritas no texto exibem a importância dos espaços públicos para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prática do lazer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vigilância da sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Erradicação da violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Construção da democracia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Diversificação do trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

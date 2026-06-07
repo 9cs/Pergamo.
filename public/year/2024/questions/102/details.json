@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2024",
+    "index": 102,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.",
+    "credits": "",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Utilizando esse procedimento, o sabor foi conservado porque houve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desnaturação enzimática pela alta temperatura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Conversão de nutrientes pela redução de temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Degradação das reservas nutritivas pelo choque térmico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impedimento da entrada de oxigênio pela fervura da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desidratação dos grãos por causa da alteração da temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

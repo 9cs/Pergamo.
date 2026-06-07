@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2024",
+    "index": 105,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Impactos do microplástico \n A ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.",
+    "credits": "Disponível em: www.ecycle.com.br. Acesso em: 9 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ósseo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nervoso",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Epitelial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adiposo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Sanguíneo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2024",
+    "index": 126,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.",
+    "credits": "O que são vacinas? Disponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessas vacinas, essa proteína viral induz a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Produção de anticorpos específicos contra os vírus.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Imunidade passiva contra o desenvolvimento da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alteração genômica para formação da memória imunológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Neutralização direta dos vírus presentes na circulação sanguínea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modificação dos receptores de membrana específicos para o vírus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2024",
+    "index": 90,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível.",
+    "credits": "CASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto apresenta uma contradição interna do capitalismo caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Obsolescência associada ao uso da tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Orientação voltada à administração de conflitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alienação decorrente da organização do trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Isonomia remanescente da geração de riquezas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Produtividade vinculada ao fortalecimento da autonomia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

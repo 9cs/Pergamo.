@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2024",
+    "index": 23,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "As reações à sétima temporada foram o ápice do último estágio em Game of Thrones. De forma alguma, este que vos fala seria capaz de argumentar que a série é perfeita, mas os defeitos que existem aqui sempre existiram, de uma forma ou de outra, durante os sete anos em que ela esteve no ar. Os dois roteiristas foram brilhantes em traduzir os personagens intrincados e conflituosos da obra de George R. R. Martin, mas nunca souberam exatamente como fazer jus a eles (e especialmente a elas, as mulheres da trama). \n A verdade é que, com tudo isso e mais Ramin Djawadi evocando sentimentos e ambientes improváveis com sua trilha sonora magistral, a série não conseguiria ser ruim nem se tentasse, mas continua sendo uma pena que, ao buscar o seu final com tanta sede e tanta celeridade, Benioff e Weiss tenham tirado sua qualidade mais preciosa: o fôlego, a paciência e o detalhismo que faziam suas palavras se levantarem do papel e ganharem vida.",
+    "credits": "Disponível em: https://observatoriodocinema.uol.com.br. Acesso em: 29 nov. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ainda que faça uma avaliação positiva da série, nessa resenha, o autor aponta aspectos negativos da obra ao utilizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Marcas de impessoalidade que disfarçam a opinião do especialista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expressões adversativas para fazer ressalvas às afirmações elogiosas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Interlocução com o leitor para corroborar opiniões contrárias à adaptação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eufemismos que minimizam as críticas feitas à construção das personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Antíteses que opõem a fragilidade do roteiro à beleza da trilha sonora da série.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2024",
+    "index": 76,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "filosofia",
+    "context": "Resumamos os principais caracteres de um rizoma: diferentemente das árvores ou de suas raízes, o rizoma conecta um ponto qualquer com outro ponto qualquer e cada um de seus traços não remete necessariamente a traços de mesma natureza. Contra os sistemas centrados (e mesmo policentrados), de comunicação hierárquica e ligações preestabelecidas, o rizoma é um sistema a-centrado não hierárquico e não significante, sem general, sem memória organizadora ou autômato central, unicamente definido por uma circulação de estados.",
+    "credits": "DELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual elemento da cultura contemporânea se relaciona às características do conceito de rizoma, conforme descrito no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrutura fixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lógica binária",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Controle homogêneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uniformidade de opiniões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pluralidade de interações",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 5 - ENEM 2024",
+    "index": 5,
+    "year": 2024,
+    "language": "ingles",
+    "area": "linguagens",
+    "discipline": "ingles",
+    "context": "![](imagem-1.png)",
+    "credits": "Disponível em: www.clickhole.com. Acesso em: 26 out. 2015.",
+    "files": [
+        "imagem-1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A carta da editora Stephanie Allen-Nichols à escritora Alice Walker tem o propósito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Problematizar o enredo de sua obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acusar o recebimento de seu manuscrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Solicitar a revisão ortográfica de seu texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informar a transferência de seu livro a outra editora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comunicar a recusa da publicação de seu romance.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

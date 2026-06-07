@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2024",
+    "index": 117,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus jahnstonei, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas.",
+    "credits": "Pererecas-assobiadoras tiram o sono de moradores do Brooklin. Disponível em: http://g1.globo.com. Acesso em: 26 mar. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao emitirem o som estridente, esses anfíbios",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indicam que estão fora de seu hábitat natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alertam para a presença de poluição urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sinalizam a existência de superpopulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Direcionam insetos para sua alimentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Atraem fêmeas para o acasalamento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

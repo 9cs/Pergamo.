@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2024",
+    "index": 124,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos.",
+    "credits": "",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Anaeróbio facultativo, anaeróbio estrito e aeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Anaeróbio facultativo, aeróbio estrito e anaeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aeróbio estrito, anaeróbio estrito e anaeróbio facultativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aeróbio estrito, anaeróbio facultativo e anaeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Questão 174 - ENEM 2024",
+    "index": 174,
+    "year": 2024,
+    "language": null,
+    "area": "matematica",
+    "discipline": "matematica",
+    "context": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n![](imagem-1.png)",
+    "credits": "",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png",
+        "imagem-6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-6.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 119 - ENEM 2024",
+    "index": 119,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "fisica",
+    "context": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade   cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador Precisará nadar na direção apontada pelos vetores   dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito.\n![](imagem-1.png)",
+    "credits": "",
+    "files": [
+        "imagem-1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa situação, em quantos minutos o nadador completará a prova?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "42",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "65",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "105",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2024",
+    "index": 81,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "historia",
+    "context": "No Brasil, os remanescentes de antigos quilombos, “mocambos”, “comunidades negras rurais”, “quilombos contemporâneos”, “comunidades quilombolas” ou “terras de preto” referem-se a um mesmo patrimônio territorial e cultural inestimável, que só recentemente passaram a ter atenção do Estado e ser do interesse de algumas autoridades e organismos oficiais.",
+    "credits": "ANJOS, R. S. A. Cartografia e quilombos: territórios étnicos africanos no Brasil. Africana Studia, n. 9, 2007.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na esfera de ação do Estado, com a Constituição de 1988, os espaços mencionados tornaram-se objeto de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Iniciativas de planejamento familiar",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Projetos de reorientação religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Programas de moradias sustentáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Políticas de inserção social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Medidas de homogeneização educacional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

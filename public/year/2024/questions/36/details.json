@@ -1,0 +1,48 @@
+{
+    "title": "Questão 36 - ENEM 2024",
+    "index": 36,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "historia",
+    "context": "TEXTO I\n![](imagem-1.png)\nTEXTO II\n![](imagem-2.png)",
+    "credits": "Anônimo. Cabeça de uma figura feminina.\nCirca 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm.\nMetropolitan Museum of Art, Nova Iorque.\nMODIGLIANI, A. Cabeça de mulher. Circa 1910-1911.\nEscultura em calcário, 68,3 × 15,9 × 24,1 cm.\nNational Gallery of Art, Washington.\n\nWOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art.\nDisponível em: www.artsy.net. Acesso em: 19 jun. 2019.",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A leitura comparativa das duas esculturas, separadas por mais de 2500 anos, indica a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Valorização da arte antiga por artistas contemporâneos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resistência da arte escultórica aos avanços tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Simplificação da forma em razão do tipo de material utilizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Persistência de padrões estéticos em diferentes épocas e culturas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ausência de detalhes como traço distintivo da arte tradicional popular.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

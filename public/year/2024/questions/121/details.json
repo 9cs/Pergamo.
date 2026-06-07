@@ -1,0 +1,52 @@
+{
+    "title": "Questão 121 - ENEM 2024",
+    "index": 121,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "fisica",
+    "context": "Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho.\n![](imagem-1.png)",
+    "credits": "WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com.\nAcesso em: 19 nov. 2021 (adaptado).",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png",
+        "imagem-6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-6.png",
+            "isCorrect": false
+        }
+    ]
+}

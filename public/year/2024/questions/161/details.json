@@ -1,0 +1,51 @@
+{
+    "title": "Questão 161 - ENEM 2024",
+    "index": 161,
+    "year": 2024,
+    "language": null,
+    "area": "matematica",
+    "discipline": "matematica",
+    "context": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura. \n \n Esses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.",
+    "credits": "",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        }
+    ]
+}

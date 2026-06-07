@@ -1,0 +1,51 @@
+{
+    "title": "Questão 99 - ENEM 2024",
+    "index": 99,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "fisica",
+    "context": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência   que são refletidas pela dianteira da ambulância, retornando para o detector com frequência  . A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
+    "credits": "",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequênciasemedidas pelo radar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Questão 169 - ENEM 2024",
+    "index": 169,
+    "year": 2024,
+    "language": null,
+    "area": "matematica",
+    "discipline": "matematica",
+    "context": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente.\n![](imagem-1.png)\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas. \n Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes.",
+    "credits": "Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png",
+        "imagem-6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-6.png",
+            "isCorrect": true
+        }
+    ]
+}

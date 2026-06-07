@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2024",
+    "index": 62,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "filosofia",
+    "context": "TEXTO I \nO empirismo moderno foi, em grande parte, condicionado por dois dogmas. Um deles é a crença em certa divisão fundamental entre verdades analíticas, ou fundadas em significados independentemente de questões de fato, e verdades sintéticas, ou fundadas em fatos. O outro \ndogma é o reducionismo: a crença de que todo enunciado significativo é equivalente a algum construto lógico sobre termos que se referem à experiência imediata.\nTEXTO II \nTeses: 1. Somente os enunciados que possuem conteúdo factual são teoricamente significativos; enunciados que não podem, em princípio, estar fundamentados pela experiência são carentes de significado. 2. As ciências empíricas usam somente o conteúdo empírico da realidade. 3. A filosofia usa um conceito não empírico da realidade.",
+    "credits": "QUINE, W. V. O. Dois dogmas do empirismo. In: RYLE, G. et al.\nEnsaios. São Paulo: Abril Cultural, 1975.\nCARNAP, R. Pseudoproblemas na filosofia. In: SCHLICK, M.;\nCARNAP, R.; POPPER, K. Coletânea de textos.\nSão Paulo: Abril Cultural, 1975.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao comparar os textos, conclui-se que eles apresentam posicionamentos filosóficos divergentes com relação ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estatuto epistemológico da linguagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Alicerce estruturante da moralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Conteúdo essencial da metafísica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Princípio constitutivo da ontologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Domínio reflexivo da estética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

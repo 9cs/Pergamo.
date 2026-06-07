@@ -1,0 +1,47 @@
+{
+    "title": "Questão 128 - ENEM 2024",
+    "index": 128,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "quimica",
+    "context": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva    tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons   se movimente ao longo da superfície.\n![](imagem-1.png)",
+    "credits": "TANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain.\nAngewandte Chemie International Edition, n. 55, 2016 (adaptado).",
+    "files": [
+        "imagem-1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao produzir eletricidade em dias chuvosos, o grafeno",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oxida os cátions dissolvidos na água da chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Impede a difusão da água através das placas solares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminui a energia de ativação da reação no pseudocapacitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Forma um compósito não metálico com os íons na água  da chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Gera uma diferença de potencial pela interação dos  elétrons com os cátions.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

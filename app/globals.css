@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 7%;
+    --card-foreground: 0 0% 98%;
+    --primary: 217 91% 60%;
+    --primary-foreground: 240 10% 3.9%;
+    --secondary: 240 4% 16%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 5% 26%;
+    --muted-foreground: 240 5% 64%;
+    --accent: 142 76% 36%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 98%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 240 10% 3.9%;
+    --border: 240 6% 20%;
+    --input: 240 6% 20%;
+    --ring: 217 91% 60%;
+    --humanities: 280 100% 70%;
+    --languages: 45 93% 58%;
+    --nature: 142 71% 45%;
+    --mathematics: 14 91% 60%;
+    --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(142 76% 36%) 100%);
+    --gradient-card: linear-gradient(135deg, hsl(240 10% 7%) 0%, hsl(240 4% 16%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(280 100% 70%) 50%, hsl(142 71% 45%) 100%);
+    --radius: 1rem;
+    --font-heading: var(--font-poppins);
+    --font-body: var(--font-inter);
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.025em;
+  }
+
+  p,
+  span,
+  div {
+    font-family: var(--font-body);
+    line-height: 1.6;
+  }
+}
+
+@layer components {
+  .card-hover {
+    @apply transition-all duration-500 ease-out;
+    @apply hover:scale-[1.03];
+    @apply hover:shadow-2xl;
+    @apply hover:-translate-y-1;
+  }
+
+  .subject-btn {
+    @apply transition-all duration-300 ease-out !important;
+    @apply bg-card/50 backdrop-blur-sm;
+    @apply focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+    transform: scale(1);
+    transform-origin: center !important;
+    transition: all 500ms ease-out !important;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  }
+  
+  .subject-btn:hover {
+    @apply bg-primary text-primary-foreground shadow-lg;
+    transform: scale(1.05) !important;
+  }
+
+  .area-card {
+    @apply relative overflow-hidden;
+    @apply bg-gradient-to-br from-card to-card/80;
+    @apply border border-border/50;
+    @apply backdrop-blur-sm;
+  }
+
+  .area-card::before {
+    content: "";
+    @apply absolute inset-0 opacity-0 transition-opacity duration-300;
+    background: linear-gradient(135deg, var(--hover-color, hsl(var(--primary))) 0%, transparent 100%);
+    pointer-events: none;
+  }
+
+  .area-card:hover::before {
+    @apply opacity-10;
+  }
+
+  .hero-gradient {
+    background: var(--gradient-hero);
+    background-size: 200% 200%;
+    animation: gradient-shift 8s ease infinite;
+  }
+
+  @keyframes gradient-shift {
+    0%,
+    100% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+}

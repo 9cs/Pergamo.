@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2024",
+    "index": 110,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.\nNas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.",
+    "credits": "FRANÇA, F. G. R. […] serpentes corais em ambientes campestres, savânicos e florestais da América do Sul. Brasília: UnB, 2008 (adaptado).\nSILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a vantagem dessa similaridade para as falsas-corais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Facilita a captura de presas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminui a competição por recursos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Possibilita a geração de indivíduos híbridos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduz a possibilidade de sofrerem predação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Otimiza o encontro de parceiros reprodutivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

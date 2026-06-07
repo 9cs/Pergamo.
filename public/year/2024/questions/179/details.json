@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2024",
+    "index": 179,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de R$ 71250,00. Os sócios da empresa decidiram que 40% desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias \ntrabalhadas pelos engenheiros foram, respectivamente: \n • engenheiro I: 4 dias, numa jornada de 5 horas e \nmeia por dia; \n • engenheiro II: 5 dias, numa jornada de 4 horas por dia; \n • engenheiro III: 6 dias, numa jornada de 2 horas e \nmeia por dia.",
+    "credits": "",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 800",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 250",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

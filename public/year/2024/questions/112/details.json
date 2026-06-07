@@ -1,0 +1,52 @@
+{
+    "title": "Questão 112 - ENEM 2024",
+    "index": 112,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-natureza",
+    "discipline": "biologia",
+    "context": "Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres. Um casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê. Considere a legenda:\n![](imagem-1.png)",
+    "credits": "GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png",
+        "imagem-6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual heredograma foi recebido pelo casal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-6.png",
+            "isCorrect": false
+        }
+    ]
+}

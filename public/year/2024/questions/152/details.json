@@ -1,0 +1,51 @@
+{
+    "title": "Questão 152 - ENEM 2024",
+    "index": 152,
+    "year": 2024,
+    "language": null,
+    "area": "matematica",
+    "discipline": "matematica",
+    "context": "O gráfico apresenta o valor total de exportações e o valor total de importações, ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira é dado pelo valor total de exportações menos o valor total de importações num mesmo período. \n \n Considere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam representados por: \n • S1: saldo em junho de 2009; \n• S2: saldo em janeiro de 2010; \n• S3: saldo em junho de 2010.",
+    "credits": "",
+    "files": [
+        "imagem-1.png",
+        "imagem-2.png",
+        "imagem-3.png",
+        "imagem-4.png",
+        "imagem-5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A ordenação dos saldos S1, S2 e S3, do maior para o menor, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": "imagem-1.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": "imagem-2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "file": "imagem-3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "file": "imagem-4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "file": "imagem-5.png",
+            "isCorrect": false
+        }
+    ]
+}

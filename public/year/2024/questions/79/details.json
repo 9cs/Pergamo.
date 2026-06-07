@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2024",
+    "index": 79,
+    "year": 2024,
+    "language": null,
+    "area": "ciencias-humanas",
+    "discipline": "sociologia",
+    "context": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e incerteza a esses migrantes internacionais forçados.",
+    "credits": "MOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Planejamento familiar",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Segregação territorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Homogeneização cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diferenciação étnico-racial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Integração socioeconômica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

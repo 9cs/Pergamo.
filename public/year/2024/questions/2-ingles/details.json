@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2024",
+    "index": 2,
+    "year": 2024,
+    "language": "ingles",
+    "area": "linguagens",
+    "discipline": "portugues",
+    "context": "Holy War \n Oh, so we can hate each other and fear each other \nWe can build these walls between each other \nBaby, blow by blow and brick by brick \nKeep yourself locked in, yourself locked in \n[…] \nOh, maybe we should love somebody \nOh, maybe we could care a little more \nSo maybe we should love somebody \nInstead of polishing the bombs of holy war",
+    "credits": "KEYS, A. Here. Estados Unidos: RCA Records, 2016.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa letra de canção, que aborda um contexto de ódio e intolerância, o marcador “instead of ” introduz a ideia de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mudança de comportamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Panorama de conflitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Rotina de isolamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Perspectiva bélica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cenário religioso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
